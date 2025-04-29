@@ -1,7 +1,7 @@
 ## Student Lab Guide  
 ### Configure & Verify a GRE Tunnel (IPv4)
 
-You are handed a running CML lab that looks exactly like the diagram above.  
+Load CML lab https://github.com/agent6/CCNP_ENCOR_LABS/blob/main/Configure%20%26%20Verify%20a%20GRE%20Tunnel%20(IPv4)/Configure_Verify_a_GRE_Tunnel_(IPv4).yaml
 All devices already have their *baseline* configuration (WAN /30 links, LAN /24 links, and BGP between each site and the ISP).  
 At the moment:
 
