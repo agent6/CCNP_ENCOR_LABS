@@ -102,7 +102,6 @@ Router deep-dives:
 
 ```plaintext
 show ip vrf                         ! list VRFs & members
-show ip interface brief vrf RED     ! verify bindings
 show ip route vrf RED               ! only /30 + local /24
 show ip cef vrf GREEN summary       ! separate FIB
 traceroute vrf RED 10.2.2.10        ! hop 1 10.1.1.1, hop 2 172.16.10.2
@@ -122,6 +121,5 @@ If pings fail:
 2. **Lab ▸ Wipe Lab** (restores blank configs)  
 3. **Lab ▸ Start Lab**  
 4. Re-enter steps 1–4.  
-   *Under 3 min* = solid • *Under 2 min* = exam-ready • *Under 90 s* = reflex
 
 Repeat until the sequence is effortless—VRF-Lite mastered!
